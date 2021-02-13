@@ -7,3 +7,5 @@ mymain文件添加aaa
 =======
 在main branch里添加bbb
 >>>>>>> remotes/origin/main
+
+使用vscode在myreadme添加aaa
