@@ -9,3 +9,4 @@ mymain文件添加aaa
 >>>>>>> remotes/origin/main
 
 使用vscode在myreadme添加aaa
+使用vscode在myreadme添加bbb
